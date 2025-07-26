@@ -10,7 +10,7 @@ import java.net.http.HttpResponse;
 import java.net.http.HttpResponse.BodyHandlers;
 public class RapidTranslateClient {
     private static final String API_URL = "https://rapid-translate-multi-traduction.p.rapidapi.com/t";
-    private static final String API_KEY = "ebf5503f0dmsh8b3d8ff95267393p14945cjsnb3aa323020bc";
+    private static final String API_KEY = "9c34c8bba5mshe03d6043c3f0027p186d91jsnda536bd481ce";
     private static final String API_HOST = "rapid-translate-multi-traduction.p.rapidapi.com";
 
     private final HttpClient httpClient = HttpClient.newHttpClient();
